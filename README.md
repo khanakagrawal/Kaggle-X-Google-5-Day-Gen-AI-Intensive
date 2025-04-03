@@ -5,4 +5,4 @@ Day 1: Understanding how AI works at the architecture and fundamental level (tra
 
 Day 2: We focused on embedding models, everything from text to image to document to data to joint embeddings and evolution of these models over the years. We also talked about vector databases and vector searches and their use in AI models that are all about relations. Finally, we learned about models like Retrieval Augemented Generation.
 
-Day 3: Focused entirely on Agents, like the orchestration layer, agents vs. models, tools likes functions and data stores and other APIs, etc. 
+Day 3: Focused entirely on Agents, like the orchestration layer, agents vs. models, tools likes functions and data stores and other APIs, etc. Also used LangGraph to build an AI Agent. 
